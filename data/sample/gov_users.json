@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Dr. Suresh Patil (State Monitoring Director)",
+    "email": "demo.maharashtra@demo.gov",
+    "password": "Demo@123",
+    "role": "state_monitor",
+    "monitoring_state": "Maharashtra",
+    "monitoring_district": null,
+    "monitoring_ward": null,
+    "region_name": null
+  },
+  {
+    "name": "Anupama Baruah (Nodal Monitoring Officer)",
+    "email": "demo.assam@demo.gov",
+    "password": "Demo@123",
+    "role": "state_monitor",
+    "monitoring_state": "Assam",
+    "monitoring_district": null,
+    "monitoring_ward": null,
+    "region_name": null
+  },
+  {
+    "name": "Vikram Singh Shekhawat (Director Planning)",
+    "email": "demo.rajasthan@demo.gov",
+    "password": "Demo@123",
+    "role": "state_monitor",
+    "monitoring_state": "Rajasthan",
+    "monitoring_district": null,
+    "monitoring_ward": null,
+    "region_name": null
+  },
+  {
+    "name": "K. Senthil Kumar (State Infrastructure Coordinator)",
+    "email": "demo.tamilnadu@demo.gov",
+    "password": "Demo@123",
+    "role": "state_monitor",
+    "monitoring_state": "Tamil Nadu",
+    "monitoring_district": null,
+    "monitoring_ward": null,
+    "region_name": null
+  },
+  {
+    "name": "National Intelligence Administrator",
+    "email": "demo.national@demo.gov",
+    "password": "Demo@123",
+    "role": "admin",
+    "monitoring_state": "All India",
+    "monitoring_district": null,
+    "monitoring_ward": null,
+    "region_name": null
+  },
+  {
+    "name": "Kiran Dagade Patil (Ward 10 Officer)",
+    "email": "ward10.bavdhan@demo.gov",
+    "password": "Demo@123",
+    "role": "ward_monitor",
+    "monitoring_state": "Maharashtra",
+    "monitoring_district": "Pune",
+    "monitoring_ward": "Ward 10 – Bavdhan / Bhusari Colony",
+    "region_name": "Bavdhan"
+  },
+  {
+    "name": "Sunita Kadam (Ward 12 Officer)",
+    "email": "ward12.panchavati@demo.gov",
+    "password": "Demo@123",
+    "role": "ward_monitor",
+    "monitoring_state": "Maharashtra",
+    "monitoring_district": "Nashik",
+    "monitoring_ward": "Ward 12 – Panchavati North",
+    "region_name": "Panchavati"
+  },
+  {
+    "name": "Rajendra Bhoyar (Gram Panchayat Officer)",
+    "email": "ward3.kamptee@demo.gov",
+    "password": "Demo@123",
+    "role": "ward_monitor",
+    "monitoring_state": "Maharashtra",
+    "monitoring_district": "Nagpur",
+    "monitoring_ward": "Ward 3 – Kamptee Shivar",
+    "region_name": "Kamptee Rural"
+  },
+  {
+    "name": "Pranab Das (Gaon Panchayat Pradhan)",
+    "email": "ward4.hajo@demo.gov",
+    "password": "Demo@123",
+    "role": "ward_monitor",
+    "monitoring_state": "Assam",
+    "monitoring_district": "Kamrup",
+    "monitoring_ward": "Hajo GP – Ward 4",
+    "region_name": "Hajo Rural"
+  },
+  {
+    "name": "Manju Meena (Panchayat Samiti Officer)",
+    "email": "ward5.chaksu@demo.gov",
+    "password": "Demo@123",
+    "role": "ward_monitor",
+    "monitoring_state": "Rajasthan",
+    "monitoring_district": "Jaipur",
+    "monitoring_ward": "Ward 5 – Chaksu Rural",
+    "region_name": "Chaksu Rural"
+  },
+  {
+    "name": "M. Murugesan (Town Panchayat President)",
+    "email": "ward8.vadipatti@demo.gov",
+    "password": "Demo@123",
+    "role": "ward_monitor",
+    "monitoring_state": "Tamil Nadu",
+    "monitoring_district": "Madurai",
+    "monitoring_ward": "Ward 8 – Vadipatti North",
+    "region_name": "Vadipatti"
+  }
+]

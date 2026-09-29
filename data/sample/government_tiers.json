@@ -1,0 +1,35 @@
+{
+  "central": {
+    "id": "central",
+    "tierName": "CENTRAL",
+    "emoji": "🏛️",
+    "title": "Central Govt",
+    "subtitle": "Government",
+    "email": "demo.national@demo.gov",
+    "password": "Demo@123",
+    "roleLabel": "National Administrator (All India)",
+    "badgeColor": "text-amber-700 bg-amber-50 border-amber-200"
+  },
+  "state": {
+    "id": "state",
+    "tierName": "STATE",
+    "emoji": "🏢",
+    "title": "State Govt",
+    "subtitle": "Government",
+    "email": "demo.maharashtra@demo.gov",
+    "password": "Demo@123",
+    "roleLabel": "Maharashtra State Monitor",
+    "badgeColor": "text-blue-700 bg-blue-50 border-blue-200"
+  },
+  "ward": {
+    "id": "ward",
+    "tierName": "WARD",
+    "emoji": "🏘️",
+    "title": "Ward Govt",
+    "subtitle": "Government",
+    "email": "ward10.bavdhan@demo.gov",
+    "password": "Demo@123",
+    "roleLabel": "Ward 10 – Bavdhan Officer",
+    "badgeColor": "text-emerald-700 bg-emerald-50 border-emerald-200"
+  }
+}

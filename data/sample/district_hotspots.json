@@ -1,0 +1,490 @@
+{
+  "Maharashtra": [
+    {
+      "name": "Pune",
+      "coords": [
+        18.5204,
+        73.8567
+      ],
+      "baseCount": 6,
+      "demand": 82,
+      "infraGap": 71,
+      "impact": 88,
+      "vulnerability": 64,
+      "urgency": 79,
+      "topCategory": "Healthcare & Roads"
+    },
+    {
+      "name": "Nashik",
+      "coords": [
+        19.9975,
+        73.7898
+      ],
+      "baseCount": 5,
+      "demand": 78,
+      "infraGap": 74,
+      "impact": 80,
+      "vulnerability": 72,
+      "urgency": 76,
+      "topCategory": "Water & Sanitation"
+    },
+    {
+      "name": "Nagpur",
+      "coords": [
+        21.1458,
+        79.0882
+      ],
+      "baseCount": 3,
+      "demand": 70,
+      "infraGap": 68,
+      "impact": 74,
+      "vulnerability": 65,
+      "urgency": 73,
+      "topCategory": "Education & Transit"
+    },
+    {
+      "name": "Ratnagiri",
+      "coords": [
+        16.9902,
+        73.312
+      ],
+      "baseCount": 4,
+      "demand": 65,
+      "infraGap": 72,
+      "impact": 62,
+      "vulnerability": 68,
+      "urgency": 69,
+      "topCategory": "Coastal Water & Power"
+    },
+    {
+      "name": "Kolhapur",
+      "coords": [
+        16.705,
+        74.2433
+      ],
+      "baseCount": 2,
+      "demand": 60,
+      "infraGap": 64,
+      "impact": 65,
+      "vulnerability": 58,
+      "urgency": 63,
+      "topCategory": "Rural Irrigation & Roads"
+    },
+    {
+      "name": "Mumbai",
+      "coords": [
+        19.076,
+        72.8777
+      ],
+      "baseCount": 2,
+      "demand": 75,
+      "infraGap": 62,
+      "impact": 92,
+      "vulnerability": 60,
+      "urgency": 74,
+      "topCategory": "Urban Drainage & Sanitation"
+    },
+    {
+      "name": "Chhatrapati Sambhajinagar",
+      "coords": [
+        19.8762,
+        75.3433
+      ],
+      "baseCount": 2,
+      "demand": 68,
+      "infraGap": 76,
+      "impact": 72,
+      "vulnerability": 70,
+      "urgency": 72,
+      "topCategory": "Industrial Water & Transport"
+    },
+    {
+      "name": "Satara",
+      "coords": [
+        17.6805,
+        74.0183
+      ],
+      "baseCount": 2,
+      "demand": 58,
+      "infraGap": 66,
+      "impact": 60,
+      "vulnerability": 62,
+      "urgency": 64,
+      "topCategory": "Healthcare Access"
+    },
+    {
+      "name": "Solapur",
+      "coords": [
+        17.6599,
+        75.9064
+      ],
+      "baseCount": 2,
+      "demand": 62,
+      "infraGap": 70,
+      "impact": 68,
+      "vulnerability": 66,
+      "urgency": 67,
+      "topCategory": "Water Supply Pipeline"
+    },
+    {
+      "name": "Latur",
+      "coords": [
+        18.4088,
+        76.5604
+      ],
+      "baseCount": 2,
+      "demand": 64,
+      "infraGap": 78,
+      "impact": 64,
+      "vulnerability": 70,
+      "urgency": 70,
+      "topCategory": "Drought Resilience & Water"
+    },
+    {
+      "name": "Amravati",
+      "coords": [
+        20.9374,
+        77.7796
+      ],
+      "baseCount": 1,
+      "demand": 56,
+      "infraGap": 68,
+      "impact": 58,
+      "vulnerability": 64,
+      "urgency": 62,
+      "topCategory": "Rural Road Connectivity"
+    }
+  ],
+  "Assam": [
+    {
+      "name": "Kamrup",
+      "coords": [
+        26.2485,
+        91.5273
+      ],
+      "baseCount": 4,
+      "demand": 80,
+      "infraGap": 78,
+      "impact": 82,
+      "vulnerability": 76,
+      "urgency": 84,
+      "topCategory": "Healthcare & Flood Protection"
+    },
+    {
+      "name": "Dibrugarh",
+      "coords": [
+        27.4728,
+        94.912
+      ],
+      "baseCount": 2,
+      "demand": 68,
+      "infraGap": 72,
+      "impact": 70,
+      "vulnerability": 68,
+      "urgency": 72,
+      "topCategory": "Embankment & River Roads"
+    },
+    {
+      "name": "Jorhat",
+      "coords": [
+        26.7509,
+        94.2037
+      ],
+      "baseCount": 2,
+      "demand": 64,
+      "infraGap": 66,
+      "impact": 65,
+      "vulnerability": 64,
+      "urgency": 68,
+      "topCategory": "Rural Education Infrastructure"
+    },
+    {
+      "name": "Nagaon",
+      "coords": [
+        26.35,
+        92.68
+      ],
+      "baseCount": 2,
+      "demand": 66,
+      "infraGap": 70,
+      "impact": 68,
+      "vulnerability": 66,
+      "urgency": 70,
+      "topCategory": "Drinking Water Pipeline"
+    },
+    {
+      "name": "Cachar",
+      "coords": [
+        24.8333,
+        92.7789
+      ],
+      "baseCount": 1,
+      "demand": 60,
+      "infraGap": 74,
+      "impact": 62,
+      "vulnerability": 72,
+      "urgency": 68,
+      "topCategory": "Barak Valley Transit Roads"
+    }
+  ],
+  "Rajasthan": [
+    {
+      "name": "Jaipur",
+      "coords": [
+        26.9124,
+        75.7873
+      ],
+      "baseCount": 4,
+      "demand": 84,
+      "infraGap": 66,
+      "impact": 90,
+      "vulnerability": 62,
+      "urgency": 80,
+      "topCategory": "Urban Civic & Transit"
+    },
+    {
+      "name": "Jodhpur",
+      "coords": [
+        26.2389,
+        73.0243
+      ],
+      "baseCount": 2,
+      "demand": 70,
+      "infraGap": 74,
+      "impact": 72,
+      "vulnerability": 70,
+      "urgency": 72,
+      "topCategory": "Canal Water Supply"
+    },
+    {
+      "name": "Udaipur",
+      "coords": [
+        24.5854,
+        73.7125
+      ],
+      "baseCount": 2,
+      "demand": 66,
+      "infraGap": 68,
+      "impact": 68,
+      "vulnerability": 66,
+      "urgency": 68,
+      "topCategory": "Tribal Healthcare & Roads"
+    },
+    {
+      "name": "Kota",
+      "coords": [
+        25.2138,
+        75.8648
+      ],
+      "baseCount": 2,
+      "demand": 64,
+      "infraGap": 65,
+      "impact": 70,
+      "vulnerability": 60,
+      "urgency": 66,
+      "topCategory": "Drainage & Road Widening"
+    },
+    {
+      "name": "Bikaner",
+      "coords": [
+        28.0229,
+        73.3119
+      ],
+      "baseCount": 1,
+      "demand": 62,
+      "infraGap": 78,
+      "impact": 62,
+      "vulnerability": 74,
+      "urgency": 70,
+      "topCategory": "Desert Water Network"
+    }
+  ],
+  "Tamil Nadu": [
+    {
+      "name": "Madurai",
+      "coords": [
+        9.9252,
+        78.1198
+      ],
+      "baseCount": 4,
+      "demand": 82,
+      "infraGap": 68,
+      "impact": 84,
+      "vulnerability": 64,
+      "urgency": 78,
+      "topCategory": "Healthcare & Drainage"
+    },
+    {
+      "name": "Coimbatore",
+      "coords": [
+        11.0168,
+        76.9558
+      ],
+      "baseCount": 2,
+      "demand": 72,
+      "infraGap": 62,
+      "impact": 80,
+      "vulnerability": 58,
+      "urgency": 70,
+      "topCategory": "Industrial Corridor & Power"
+    },
+    {
+      "name": "Chennai",
+      "coords": [
+        13.0827,
+        80.2707
+      ],
+      "baseCount": 2,
+      "demand": 78,
+      "infraGap": 60,
+      "impact": 92,
+      "vulnerability": 62,
+      "urgency": 76,
+      "topCategory": "Stormwater & Transit"
+    },
+    {
+      "name": "Salem",
+      "coords": [
+        11.6643,
+        78.146
+      ],
+      "baseCount": 1,
+      "demand": 60,
+      "infraGap": 68,
+      "impact": 64,
+      "vulnerability": 62,
+      "urgency": 64,
+      "topCategory": "Water Pipeline"
+    },
+    {
+      "name": "Tiruchirappalli",
+      "coords": [
+        10.7905,
+        78.7047
+      ],
+      "baseCount": 1,
+      "demand": 62,
+      "infraGap": 66,
+      "impact": 66,
+      "vulnerability": 60,
+      "urgency": 64,
+      "topCategory": "Cauvery River Basin Water"
+    }
+  ],
+  "Karnataka": [
+    {
+      "name": "Bengaluru Urban",
+      "coords": [
+        12.9716,
+        77.5946
+      ],
+      "baseCount": 4,
+      "demand": 88,
+      "infraGap": 65,
+      "impact": 94,
+      "vulnerability": 58,
+      "urgency": 80,
+      "topCategory": "Urban Transit & Sanitation"
+    },
+    {
+      "name": "Mysuru",
+      "coords": [
+        12.2958,
+        76.6394
+      ],
+      "baseCount": 2,
+      "demand": 68,
+      "infraGap": 64,
+      "impact": 72,
+      "vulnerability": 60,
+      "urgency": 68,
+      "topCategory": "Heritage Corridor Transport"
+    },
+    {
+      "name": "Belagavi",
+      "coords": [
+        15.8497,
+        74.4977
+      ],
+      "baseCount": 2,
+      "demand": 66,
+      "infraGap": 72,
+      "impact": 70,
+      "vulnerability": 66,
+      "urgency": 70,
+      "topCategory": "Sugar Belt Rural Roads"
+    },
+    {
+      "name": "Kalaburagi",
+      "coords": [
+        17.3297,
+        76.8343
+      ],
+      "baseCount": 1,
+      "demand": 64,
+      "infraGap": 78,
+      "impact": 65,
+      "vulnerability": 74,
+      "urgency": 72,
+      "topCategory": "Kalyana Karnataka Water & PHC"
+    }
+  ],
+  "Uttar Pradesh": [
+    {
+      "name": "Lucknow",
+      "coords": [
+        26.8467,
+        80.9462
+      ],
+      "baseCount": 3,
+      "demand": 82,
+      "infraGap": 68,
+      "impact": 88,
+      "vulnerability": 64,
+      "urgency": 76,
+      "topCategory": "Urban Healthcare & Drainage"
+    },
+    {
+      "name": "Barabanki",
+      "coords": [
+        26.9274,
+        81.1834
+      ],
+      "baseCount": 2,
+      "demand": 74,
+      "infraGap": 76,
+      "impact": 72,
+      "vulnerability": 78,
+      "urgency": 75,
+      "topCategory": "Rural Primary Education"
+    },
+    {
+      "name": "Varanasi",
+      "coords": [
+        25.3176,
+        82.9739
+      ],
+      "baseCount": 2,
+      "demand": 76,
+      "infraGap": 70,
+      "impact": 80,
+      "vulnerability": 66,
+      "urgency": 74,
+      "topCategory": "Ganga Ghat Sanitation"
+    },
+    {
+      "name": "Kanpur",
+      "coords": [
+        26.4499,
+        80.3319
+      ],
+      "baseCount": 2,
+      "demand": 72,
+      "infraGap": 72,
+      "impact": 82,
+      "vulnerability": 68,
+      "urgency": 73,
+      "topCategory": "Industrial Effluent & Roads"
+    }
+  ]
+}

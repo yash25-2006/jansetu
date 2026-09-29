@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Jan Setu - India Development Intelligence",
+    "slug": "jan-setu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#002B49"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "gov.in.jansetu",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app requires camera access to capture geo-tagged site photos of civic problems and demands.",
+        "NSMicrophoneUsageDescription": "This app requires microphone access to record voice descriptions of citizen requests.",
+        "NSLocationWhenInUseUsageDescription": "This app requires location access to verify citizen presence and pinpoint problem sites."
+      }
+    },
+    "android": {
+      "package": "gov.in.jansetu",
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

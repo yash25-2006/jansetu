@@ -1,0 +1,93 @@
+[
+  {
+    "region_name": "Bavdhan",
+    "name": "Kiran Dagade Patil",
+    "designation": "Municipal Corporator",
+    "ward": "Ward 10 – Bavdhan / Bhusari Colony",
+    "government_body": "Pune Municipal Corporation",
+    "political_party": "Bharatiya Janata Party",
+    "contact_information": "Office: DP Road, Bavdhan, Pune. Public Grievance Desk Available.",
+    "source": "State Election Commission Maharashtra & PMC Gazette",
+    "source_url": "https://mahasec.maharashtra.gov.in",
+    "verified_at": "2026-09-19",
+    "active": true
+  },
+  {
+    "region_name": "Bavdhan",
+    "name": "Dilip Wede-Patil",
+    "designation": "Municipal Corporator",
+    "ward": "Ward 10 – Bavdhan / Bhusari Colony",
+    "government_body": "Pune Municipal Corporation",
+    "political_party": "Nationalist Congress Party",
+    "contact_information": "Public Ward Contact Office, Bavdhan Khurd, Pune.",
+    "source": "State Election Commission Maharashtra & PMC Gazette",
+    "source_url": "https://mahasec.maharashtra.gov.in",
+    "verified_at": "2026-09-19",
+    "active": true
+  },
+  {
+    "region_name": "Panchavati",
+    "name": "Sunita Kadam",
+    "designation": "Municipal Corporator",
+    "ward": "Ward 12 – Panchavati North",
+    "government_body": "Nashik Municipal Corporation",
+    "political_party": "Shiv Sena",
+    "contact_information": "Ward Office 12, Panchavati, Nashik.",
+    "source": "Nashik Municipal Corporation Official Portal",
+    "source_url": "https://nashikcorporation.in",
+    "verified_at": "2026-09-19",
+    "active": true
+  },
+  {
+    "region_name": "Kamptee Rural",
+    "name": "Rajendra Bhoyar",
+    "designation": "Sarpanch",
+    "ward": "Kamptee Gram Panchayat",
+    "government_body": "Kamptee Gram Panchayat",
+    "political_party": null,
+    "contact_information": "Gram Panchayat Bhawan, Kamptee Rural, Nagpur.",
+    "source": "Nagpur Zilla Parishad & Panchayati Raj Portal",
+    "source_url": "https://panchayat.gov.in",
+    "verified_at": "2026-09-19",
+    "active": true
+  },
+  {
+    "region_name": "Hajo Rural",
+    "name": "Pranab Das",
+    "designation": "Gaon Pradhan / Anchalik Panchayat Member",
+    "ward": "Hajo Gaon Panchayat",
+    "government_body": "Hajo Gaon Panchayat",
+    "political_party": null,
+    "contact_information": "Gaon Panchayat Office, Hajo, Kamrup.",
+    "source": "Assam State Election Commission Gazette",
+    "source_url": "https://sec.assam.gov.in",
+    "verified_at": "2026-09-19",
+    "active": true
+  },
+  {
+    "region_name": "Chaksu Rural",
+    "name": "Manju Meena",
+    "designation": "Sarpanch",
+    "ward": "Chaksu Gram Panchayat",
+    "government_body": "Chaksu Gram Panchayat",
+    "political_party": null,
+    "contact_information": "Panchayat Bhawan, Chaksu Rural, Jaipur.",
+    "source": "Rajasthan State Election Commission Portal",
+    "source_url": "https://sec.rajasthan.gov.in",
+    "verified_at": "2026-09-19",
+    "active": true
+  },
+  {
+    "region_name": "Vadipatti",
+    "name": "M. Murugesan",
+    "designation": "Town Panchayat President",
+    "ward": "Ward 8 – Vadipatti North",
+    "government_body": "Vadipatti Town Panchayat",
+    "political_party": "Dravida Munnetra Kazhagam",
+    "contact_information": "Town Panchayat Office, Vadipatti, Madurai.",
+    "source": "Tamil Nadu State Election Commission",
+    "source_url": "https://tnsec.tn.nic.in",
+    "verified_at": "2026-09-19",
+    "active": true
+  }
+]
